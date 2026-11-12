@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap');
+:root{font-family:Nunito,"Noto Naskh Arabic",sans-serif;color:#17233c;background:#fbfaf7;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}body{margin:0;min-width:320px}button,textarea{font:inherit}button{cursor:pointer}button:focus-visible,textarea:focus-visible{outline:3px solid #f3bb35;outline-offset:3px}h1,h2,h3,p{margin-top:0}p{line-height:1.6} 
